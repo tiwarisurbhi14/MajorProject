@@ -1,0 +1,15 @@
+# virtual environments
+venv/
+.env/
+
+# data
+data/
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# binaries / models
+*.h5
+*.npy
+*.dylib
