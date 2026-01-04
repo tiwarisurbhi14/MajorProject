@@ -1,6 +1,7 @@
 # virtual environments
 venv/
 .env/
+hrv_env/
 
 # data
 data/
@@ -8,6 +9,10 @@ data/
 # python cache
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
 
 # binaries / models
 *.h5
