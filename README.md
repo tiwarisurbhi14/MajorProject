@@ -24,3 +24,4 @@ Neural Network (CNN).
 ## Author
 Surbhi Tiwari
 Samreet kaur
+Suraj
